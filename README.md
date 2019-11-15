@@ -1,5 +1,5 @@
 # AI Club at SCS
-# Machine-Learning-Level-1
+# Machine-Learning
  
 ## 1) Python101 Basics:
 ##### - Numbers
